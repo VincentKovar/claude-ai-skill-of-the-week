@@ -1,4 +1,4 @@
----
+--- 
 name: personal-mba-generator
 description: Creates a comprehensive, structured learning plan to help the user master any skill quickly and effectively. Use this skill every time the user wants to learn something new, acquire a skill, improve at an ability, or asks how to study or practice something. Trigger on phrases like "I want to learn", "how do I learn", "help me study", "how to get better at", "I want to become good at", "learning plan for", "how to acquire the skill of", "teach me", "I need to learn", "how to master", "learning roadmap for", "help me get started with". Also trigger whenever the user mentions any technical, soft, linguistic, professional, or creative skill they want to develop — even if the request is casual or informal.
 ---
